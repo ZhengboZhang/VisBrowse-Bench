@@ -4,4 +4,6 @@
 <div align="center"> 
 </div>
 
+Official code and data for the paper "VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents".
+
 ## 📣 News
