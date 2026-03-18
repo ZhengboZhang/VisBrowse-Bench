@@ -30,7 +30,7 @@ class VisBrowse:
         images = sample['image']
         str_url = ""
         for image in images:
-            str_url += "your_repository" + image + ', '
+            str_url += image + ', '
 
         messages = [dict(
                         role="system",
@@ -54,7 +54,7 @@ class VisBrowse:
             messages[1]['content'].append({
                 'type': 'image_url',
                 'image_url': {
-                    'url': "your_repository" + image
+                    'url': image
                 }
             })
 
