@@ -65,7 +65,7 @@ Before running the script, you should configure the following parameters in the 
 
 ## 📄 Citation
 
-If you find this modle useful in your research, please cite:
+If you find this benchmark useful in your research, please cite:
 ```bibtex
 @misc{zhang2026visbrowsebenchbenchmarkingvisualnativesearch,
    title={VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents}, 
